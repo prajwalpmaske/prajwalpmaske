@@ -3,7 +3,7 @@
 # 💫 About Me:
 Pursuing My Computer Science Degree From DY Patil [RAIT] University Nerul<br>-🔭 I’m currently working on College Projects<br>- 🌱 I’m currently learning React JS<br>-🤔 I’m looking for help with Internship Related Front-End Development<br>- 💬 Ask me about UI/UX Design Assistance<br>-📫 How to reach me : prajwal.ggs.works@gmail.com / prajwalmaske07@gmail.com
 
-<img align="right" alt="Coding" width="300" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="250" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@prajwal.ggs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajwal-maske-9166b0223) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@prajwal_ggs) 
